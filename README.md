@@ -1,7 +1,7 @@
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Abhishek-thakur1)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
